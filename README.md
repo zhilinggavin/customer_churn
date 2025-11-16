@@ -1,6 +1,7 @@
 **<center> <span style="color:#0F52BA;font-family:serif; font-size:34px;"> TELECOM CUSTOMER CHURN PREDICTION 📈</span> </center>**
 <center><span style="font-family:Palatino; font-size:22px;"><i> Did you know that attracting a new customer costs <span style="color:#DC143C;">five times</span> as much as keeping an existing one?</i></span> </center>
-![churn 1.png](attachment:7a47ebdd-9f53-4bf0-bc99-b56b8050a874.png)
+
+Dataset source can be found [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data) in Kaggle.
 
 # <span style="font-family:serif; font-size:28px;"> Content</span>
 
